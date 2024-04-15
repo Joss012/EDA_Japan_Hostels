@@ -1,4 +1,5 @@
-![Header](./[Your header image])
+ ![Header](Images/Banner.png)
+ 
 # Exploratory Data Analysis in Python
  
 The purpose of the project is to give insight to stakeholders who are solo traveling to Japan in the near future and want to stay in a hostel but would like more information on them.
