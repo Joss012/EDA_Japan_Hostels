@@ -61,7 +61,7 @@ df.sample(5)
    ![After_Clean](Images/After_Clean.png)
 ## Analysis
 
-#### 1. What's the average price of a hostel for 1 night?
+#### 1. What's the average price of a hostel for 1 night? [Back to QA](1-whats-the-average-price-of-a-hostel-for-1-night)
    ![Q1_USD](Images/Q1_USD.png) ![Q1_YEN](Images/Q1_YEN.png)
 #### 2. Does the city of the hostel change the price?
    ![Q2](Images/Q2.png)
