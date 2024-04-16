@@ -21,8 +21,6 @@ The purpose of the project is to give insight to stakeholders who are solo trave
 - ```seaborn```
 ## Research Questions & Answers
 
-[What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night--back-to-qa--#research-questions--answers)
-
 1. [What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night)
     - ``$16.45 USD`` or ``¥2492 YEN``
 
@@ -64,7 +62,7 @@ df.sample(5)
 ## Analysis
 
 #### 1. What's the average price of a hostel for 1 night? [Back to QA](#research-questions--answers)
-   ![Q1_USD](Images/Q1_USD.png) ![Q1_YEN](Images/Q1_YEN.png)
+   ![Q1_USD](Images/Q1_USD.png) ![Q1_YEN](Images/Q1_YEN.png) 
 #### 2. Does the city of the hostel change the price? [Back to QA](#research-questions--answers)
    ![Q2](Images/Q2.png)
 #### 3. Does the distance from the center of the city affect pricing? [Back to QA](#research-questions--answers)
