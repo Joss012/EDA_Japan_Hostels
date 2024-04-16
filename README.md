@@ -21,8 +21,10 @@ The purpose of the project is to give insight to stakeholders who are solo trave
 - ```seaborn```
 ## Research Questions & Answers
 
-1. What's the average price of a hostel for 1 night?
-    - ``$16.45 USD`` or ``¥2492 YEN``
+[What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night)
+
+
+
 
 2. Does the city of the hostel change the price?
     - ``Yes``, however only slightly. The highest average-priced city for a hostel is Tokyo coming in at around $17.85 USD (¥2752.61 YEN) and the lowest-priced city Kyoto comes in at around $14.78 (¥2279.19 YEN). The other major cities like Osaka, Fukuoka-City, and Hiroshima fall in between these two prices.
