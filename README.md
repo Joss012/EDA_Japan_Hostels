@@ -21,6 +21,8 @@ The purpose of the project is to give insight to stakeholders who are solo trave
 - ```seaborn```
 ## Research Questions & Answers
 
+[What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night--back-to-qa--#research-questions--answers)
+
 1. [What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night)
     - ``$16.45 USD`` or ``¥2492 YEN``
 
