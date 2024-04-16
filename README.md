@@ -21,7 +21,6 @@ The purpose of the project is to give insight to stakeholders who are solo trave
 - ```seaborn```
 ## Research Questions & Answers
  
-[What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night---back-to-qa) 
 1. [What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night) 
     - ``$16.45 USD`` or ``¥2492 YEN``
 
@@ -62,20 +61,22 @@ df.sample(5)
    ![After_Clean](Images/After_Clean.png)
 ## Analysis
 
-#### 1. What's the average price of a hostel for 1 night? [Back to QA](#research-questions--answers)
+#### 1. What's the average price of a hostel for 1 night?
    ![Q1_USD](Images/Q1_USD.png) ![Q1_YEN](Images/Q1_YEN.png) 
-#### 2. Does the city of the hostel change the price? [Back to QA](#research-questions--answers)
+#### 2. Does the city of the hostel change the price?
    ![Q2](Images/Q2.png)
-#### 3. Does the distance from the center of the city affect pricing? [Back to QA](#research-questions--answers)
+#### 3. Does the distance from the center of the city affect pricing?
    ![Q3](Images/Q3.png)
-#### 4. What city has the most and least hostels? [Back to QA](#research-questions--answers)
+#### 4. What city has the most and least hostels?
    ![Q4](Images/Q4.png)
-#### 5. What city has the best and worst-rated hostels on average? [Back to QA](#research-questions--answers)
+#### 5. What city has the best and worst-rated hostels on average?
    ![Q5](Images/Q5.png)
-#### 6. What ratings does each city have? [Back to QA](#research-questions--answers)
+#### 6. What ratings does each city have?
    ![Q6](Images/Q6.png)
-#### 7. How do various aspects of hostel experience correlate with each other? [Back to QA](#research-questions--answers)
+#### 7. How do various aspects of hostel experience correlate with each other?
    ![Q7](Images/Q7.png)
+
+   [Back to QA](#research-questions--answers)
 ## Limitations
 
 This is an older dataset with only the information based on the time it was gathered. This means that prices and ratings in the analysis can be slightly inaccurate when comparing them to the current prices and ratings of these hostels.
