@@ -21,31 +21,29 @@ The purpose of the project is to give insight to stakeholders who are solo trave
 - ```seaborn```
 ## Research Questions & Answers
 
-[What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night)
+1. [What's the average price of a hostel for 1 night?](#1-whats-the-average-price-of-a-hostel-for-1-night)
+    - ``$16.45 USD`` or ``¥2492 YEN``
 
-
-
-
-2. Does the city of the hostel change the price?
+2. [Does the city of the hostel change the price?](#2-does-the-city-of-the-hostel-change-the-price)
     - ``Yes``, however only slightly. The highest average-priced city for a hostel is Tokyo coming in at around $17.85 USD (¥2752.61 YEN) and the lowest-priced city Kyoto comes in at around $14.78 (¥2279.19 YEN). The other major cities like Osaka, Fukuoka-City, and Hiroshima fall in between these two prices.
 
-3. Does the distance from the center of the city affect pricing?
+3. [Does the distance from the center of the city affect pricing?](#3-does-the-distance-from-the-center-of-the-city-affect-pricing)
     - Overall ``No``, distance does not seem to affect the pricing of the hostels as ones that are closer to the city center are priced around the same as ones found 5-10 miles away.
 
-4. What city has the most and least hostels?
+4. [What city has the most and least hostels?](#4-what-city-has-the-most-and-least-hostels)
     - ``Tokyo`` has the most with 122 while ``Hiroshima`` has the least with 14. 
 
-5. What city has the best and worst-rated hostels on average?
+5. [What city has the best and worst-rated hostels on average?](#5-what-city-has-the-best-and-worst-rated-hostels-on-average)
     - ``Hiroshima`` has the best rate at 9.2 and ``Osaka`` has the worst rate at 8.6. Although Osaka has the worst rating on average, the rating itself is still very good. The other major cities like Tokyo, Fukuoka-City, and Kyoto fall in between these two ratings.
 
-6. What ratings does each city have?
+6. [What ratings does each city have?](#6-what-ratings-does-each-city-have)
     - ``Tokyo`` has 66 "superb" rated hostels.
     - ``Osaka`` has 50 "superb" rated hostels.
     - ``Kyoto`` has 46 "superb" rated hostels.
     - ``Hiroshima`` has 11 "superb" rated hostels.
     - ``Fukuoka-city`` has 9 "superb" rated hostels.
 
-7. How do various aspects of hostel experience correlate with each other?
+7. [How do various aspects of hostel experience correlate with each other?](#7-how-do-various-aspects-of-hostel-experience-correlate-with-each-other)
     - Overall most of the main hostel aspects (Atmosphere, Cleanliness, Location, Value for Money, etc.) that people think about when deciding which places to stay at ``correlate highly`` to each other. Some <ins>notably high ones are the correlations between Facilities and Cleanliness (0.80), and Facilities and Value for Money (0.75)</ins>. With the high correlations between the two, I would suggest people look at hostels with highly rated Facilities if some of their top priorities are value for money and cleanliness. Some <ins>notably low ones are the correlations of Price and Distance</ins>. In almost all columns looked at with these two aspects the correlations were negative. This would suggest that price and distance do not play a key role in deciding if a hostel will be a desirable place to stay.
 
 ## Preparation
